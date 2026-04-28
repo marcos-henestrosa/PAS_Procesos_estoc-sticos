@@ -1,2 +1,2 @@
-# PAS_Procesos_estoc-sticos
-Este proyecto consiste en la elaboración de varias gráficas con simulaciones de un paseo aleatorio simple (PAS) para la asignatura de procesos estocásticos.
+# Procesos_estoc-sticos
+En este repositorio guardaré los proyectos que realice en la asignatura de procesos estocásticos.
